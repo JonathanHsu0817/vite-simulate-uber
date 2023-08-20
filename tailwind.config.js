@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'custom-background': 'rgb(237,237,237)',
+        'home-background': 'rgb(237,237,237)',
+        'direction-background': 'rgb(191,191,191)',
       },
     },
   },
